@@ -18,4 +18,4 @@ This project is a Simple Calculator developed using Python as part of the KodBud
 - VS Code
 
 ## Author
-Vaishnavi Nivita
+Vaishnavi Joga
